@@ -44,3 +44,8 @@ body {
   display:block;
   max-width:1400px;
 }
+.aboutbox {
+font-size: 30px;
+padding: 20px;
+background-color: lemonchiffon;
+}
