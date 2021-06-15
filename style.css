@@ -49,3 +49,10 @@ font-size: 30px;
 padding: 20px;
 background-color: lemonchiffon;
 }
+
+.me {
+  margin:0 auto;
+  display:block;
+  max-width:1400px;
+  padding:50px;
+}
