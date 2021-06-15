@@ -1,6 +1,6 @@
 body {
   background-color: #cecef9;
-  font-style: monospace;
+  font-family: 'Overpass', sans-serif;
 }
 .header-container {
   display: flex;
