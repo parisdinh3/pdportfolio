@@ -86,3 +86,6 @@ text-align:center;
   display:block;
   position:absolute;
   right:20px;
+}
+
+@media screen and (max-width:800px)
