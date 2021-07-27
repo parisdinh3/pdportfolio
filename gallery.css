@@ -2,10 +2,18 @@ body {
   background-color: #cecef9;
   font-family: 'Overpass', sans-serif;
 }
+.abt {
+  margin:0 auto;
+  display:block;
+  text-align:center;
+}
 
-
-
+img {
+  max-width:200px;
+  position:relative;
+}
 .paris {
+  width:200px;
   top:150px;
   left:100px;
 }
