@@ -4,16 +4,20 @@ body {
 }
 .abt {
   margin:0 auto;
-  display:block;
   text-align:center;
+  font-size:50px;
 }
 
 img {
-  max-width:200px;
+  max-width:500px;
   position:relative;
 }
 .paris {
-  width:200px;
-  top:150px;
+  top:200px;
   left:100px;
+}
+
+.gf {
+  right:100px;
+  top:150px;
 }
