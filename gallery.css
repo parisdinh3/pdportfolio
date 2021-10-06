@@ -3,7 +3,6 @@ body {
   font-family: 'Overpass', sans-serif;
 }
 .abt {
-  margin:0 auto;
   text-align:center;
   font-size:50px;
 }
@@ -13,11 +12,55 @@ img {
   position:relative;
 }
 .paris {
-  top:200px;
-  left:100px;
+  top:-50px;
+  left:-50px;
 }
 
 .gf {
   right:100px;
-  top:150px;
+  top:-120px;
+}
+
+.vsa {
+  top:-600px;
+  right:-900px;
+}
+
+.des {
+  text-align:center;
+  font-size:50px;
+  top:-720px;
+}
+
+.tote {
+  top:-700px;
+  right:-70px;
+}
+
+.jck {
+  max-width:350px;
+  top:-720px;
+  right:-60px;
+}
+
+.pxl {
+  max-width:440px;
+  top:-720px;
+  right:-80px;
+}
+.me {
+  max-width:350px;
+  top:-700px;
+  right:-30px;
+}
+
+.art {
+  max-width:340px;
+  top:-700px;
+  right:-200px;
+}
+.pho {
+  max-width:350px;
+  top:-700px;
+  right:-300px;
 }
