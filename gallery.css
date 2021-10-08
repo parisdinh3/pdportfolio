@@ -79,3 +79,34 @@ img {
   top:-650px;
   right:-230px;
 }
+.aseul {
+  max-width:350px;
+  top:-700px;
+  right:-40px;
+}
+.lofi {
+  max-width:320px;
+  top:-700px;
+  right:-200px;
+}
+.jap {
+  max-width:350px;
+  top:-700px;
+  right:-300px;
+}
+.gbm {
+  max-width:420px;
+  top:-650px;
+  right:-20px;
+}
+.scpt {
+  max-width:420px;
+  top:-650px;
+  right:-80px;
+}
+
+.wish {
+  max-width:420px;
+  top:-650px;
+  right:-130px
+}
